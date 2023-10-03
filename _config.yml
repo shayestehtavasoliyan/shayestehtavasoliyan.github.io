@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shayesteh Tavasoliyan / My Personal Website"
-title_separator          : "-"
+title                    : "Shayesteh Tavasoliyan"
+title_separator          : ""
 name                     : &name "Shayesteh Tavasoliyan"
 description              : &description "personal description"
 url                      : https://shayestehtavasoliyan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
