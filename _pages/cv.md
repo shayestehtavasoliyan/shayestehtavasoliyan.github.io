@@ -23,9 +23,9 @@ Research Interests
 Research Experience
 ======
 * Researcher at Small-Size Robot Soccer Team
-  * Research focus: Electronic, Circuit design
+  * Research focus: Electronic, Circuit design.
 * Researcher at Soccer 2D Simulation Team
-  * Research focus: C++ , Machine Learning
+  * Research focus: C++ , Machine Learning.
 
 Final Bachlor's Project
 ======
