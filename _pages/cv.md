@@ -11,36 +11,48 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc., Biomedical Engineering, Qazvin I. Azad University, Sept. 2018 - February 2023.
+* High School Diploma, Pegah High School, Qazvin, Iran, June 2016.
 
-Work experience
+Research Interests
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* The Application of Exoskeletons in Medicine
+* Machine Learning
+* Humanoid and Quadruped Robots
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+Research Experience
+======
+* Researcher at Small-Size Robot Soccer Team
+  * Research focus: Electronic, Circuit design
+* Researcher at Soccer 2D Simulation Team
+  * Research focus: C++ , Machine Learning
+
+Final Bachlor's Project
+======
+* Breast cancer detection using CNN, Qazvin I. Azad University, Qazvin Iran.
+
+Honors And Awards
+======
+* 2nd place of International Small Size Robot League 2019
+, MRL small size team, Robocup 2019, Sydney, Australia.
+
+Membership
+======
+* Mechatronics Reseach Laboratory, Mrl, Qazvin, Iran.
+* MRL Small-Size Robot Soccer Team, Mrl Ssl, Qazvin, Iran.
+* MRL Soccer 2D simulation Team, Mrl S2D, Qazvin, Iran.
+
+Languages
+======
+* Persian Nature
+* English Fluent
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Programming Language:
+  * C++ , Python (familiar).
+* Software And Tools:
+  * MATLAB(Familiar), Proteus, CV (Familiar).
   
 Talks
 ======
@@ -54,6 +66,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
